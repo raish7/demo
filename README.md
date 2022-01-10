@@ -6,5 +6,5 @@ Version 1.0
 A Sample readme
 
 ------
-##Platform
+## Platform
 Git & Github
